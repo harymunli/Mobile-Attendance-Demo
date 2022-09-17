@@ -1,4 +1,5 @@
 # Mobile-Attendance-Demo
 Flutter application using Open Street Map(OSM) for geotagging API.<br>
+
 ## App main feature
-Accepting attendance if distance between device/GPS location and office/pinned location less than 50 meter.
+Tagging a place in map view, and check if user location have distance 50 m from tagged place.if true, accept attendance. Else, reject.
